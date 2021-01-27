@@ -42,4 +42,6 @@ int main () {
       cout << "   Not legal to hold meeting. " << excPeople << " people must leave due to fire regulations." << endl;
     }
   }
+
+  return 0;
 }

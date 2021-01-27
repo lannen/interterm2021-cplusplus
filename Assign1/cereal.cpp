@@ -26,4 +26,6 @@ int main () {
   // outputs weight converted to metric tons
   cout << "   " << weightInOunces << " ounces is " << weightInMetricTons << " metric tons." << endl;
   cout << "   " << boxesNeeded << " boxes of cereal needed for 1 metric ton of cereal." << endl;
+
+  return 0;
 }
